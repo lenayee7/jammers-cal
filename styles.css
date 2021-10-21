@@ -30,7 +30,7 @@ h1 {
 }
 
 .sched-img {
-  width: 80%;
+  width: 60%;
 }
 
 @media only screen and (max-width: 650px) {
@@ -49,7 +49,7 @@ h1 {
   }
 
   .sched-img {
-    width: 100%;
+    width: 80%;
   }
 
   .covid-checklist {
