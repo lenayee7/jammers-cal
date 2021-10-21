@@ -25,8 +25,12 @@ h1 {
   margin: 2% auto 0 auto;
 }
 
-img {
+.logo {
   width: 30%;
+}
+
+.sched-img {
+  width: 80%;
 }
 
 @media only screen and (max-width: 650px) {
@@ -36,12 +40,16 @@ img {
   iframe {
     width: 350px;
   }
-  img {
+  logo {
     width: 50%;
   }
 
   h3 {
     padding: 0 2%;
+  }
+
+  .sched-img {
+    width: 100%;
   }
 
   .covid-checklist {
