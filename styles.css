@@ -29,14 +29,23 @@ img {
   width: 30%;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 650px) {
   .container {
-    width: 400px;
+    width: 350px;
   }
   iframe {
-    width: 400px;
+    width: 300px;
   }
   img {
     width: 50%;
+  }
+
+  h3 {
+    padding: 0 2%;
+  }
+
+  .covid-checklist {
+    padding: 0 2%;
+    margin-bottom: 6%;
   }
 }
