@@ -20,6 +20,10 @@ h1 {
   margin: 0 auto;
 }
 
+.margin-bottom {
+  margin-bottom: 5%;
+}
+
 .container {
   width: 80%;
   margin: 2% auto 0 auto;
