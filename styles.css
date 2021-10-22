@@ -26,7 +26,7 @@ h1 {
 
 .container {
   width: 80%;
-  margin: 2% auto 0 auto;
+  margin: 2% auto 5% auto;
 }
 
 .logo {
@@ -60,4 +60,9 @@ h1 {
     padding: 0 2%;
     margin-bottom: 6%;
   }
+}
+
+.bold {
+  font-size: 2.5rem;
+  font-weight: 600;
 }
